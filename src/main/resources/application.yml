@@ -5,8 +5,7 @@ spring:
     name: gpt-service
 gpt:
   service:
-    api-key:
-    host: 
+    api-key: youkey
     is-stream: false
     model: gpt-3.5-turbo
 

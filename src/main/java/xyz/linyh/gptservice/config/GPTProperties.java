@@ -39,10 +39,6 @@ public class GPTProperties {
     private String host="api.openai.com";
 
     /**
-     * 请求地址
-     */
-    private String requestHost = "https://spark-api.xf-yun.com/v2.1/chat";
-    /**
      * 是否流式返回
      */
     private Boolean isStream=false;
