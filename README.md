@@ -1,7 +1,8 @@
 # gpt-service
 
 ## 使用
-引入项目，配置yml文件里面的apikey即可
+引入项目，配置yml文件里面的apikey即可，
+如果有代理地址可以配置文件配置host
 
 通过调用http://localhost:9090/send 并请求体携带
 ```
